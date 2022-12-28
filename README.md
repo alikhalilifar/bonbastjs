@@ -1,2 +1,2 @@
-# bonbast-js
-# bonbast-js
+# BonbastJS
+A simple js scrapper for bonbast exchange rates.
