@@ -16,7 +16,7 @@ npm install bonbastjs
 
 ## Usage
 
-This package only has a single function to invoke which provides you all the bonbast json data:
+This package only has a single function to invoke, which returns all the bonbast json data:
 
 ```
 import bonbastjs from 'bonbastjs';
