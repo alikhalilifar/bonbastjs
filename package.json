@@ -16,5 +16,6 @@
     "build": "tsc",
     "start": "nodemon dist",
     "postversion": "git push && git push --tags"
-  }
+  },
+  "license": "MIT"
 }
