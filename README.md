@@ -1,5 +1,5 @@
 # BonbastJS
-A simple js scrapper for bonbast exchange rates.
+A simple js scrapper to get all the bonbast exchange rates.
 
 ## Table of Contents
 
