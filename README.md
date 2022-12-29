@@ -31,7 +31,6 @@ This package only has a single function to invoke, which returns all the bonbast
 import bonbastjs from 'bonbastjs';
 
 // usage
-
 (async () => {
   const exchangeRates = await bonbastjs();
 })();
