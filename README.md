@@ -9,16 +9,25 @@ A simple js scrapper to get all the bonbast exchange rates.
 
 ## Installation
 
-```
-yarn add bonbastjs
+### Package manager
+
+Using npm:
+
+```bash
 npm install bonbastjs
+```
+
+Using yarn:
+
+```bash
+yarn add bonbastjs
 ```
 
 ## Usage
 
 This package only has a single function to invoke, which returns all the bonbast json data:
 
-```
+```js
 import bonbastjs from 'bonbastjs';
 
 (async () => {
@@ -28,7 +37,7 @@ import bonbastjs from 'bonbastjs';
 
 Sample response: 
 
-```
+```js
 {
   try1: '2355',
   month: 10,
